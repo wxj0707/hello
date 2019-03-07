@@ -1,0 +1,18 @@
+{
+    "name": "wxj0707/hello",
+    "description": "test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wxj0707",
+            "email": "wxj0707@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    }
+}
